@@ -1,0 +1,35 @@
+{
+  "name": "mythos",
+  "title": "Mythos: Fate and Fortunes",
+  "description": "<h1>Mythos</h1>\n<p>It has been some time since all of you have been together, salty sea air follows some while emotions of family and relations follow others, much has changed and so has the world. The stage is set and the muses sing the epic that will soon follow. The enemies you have made along the way have now begun to playe their hands, the gods and there powers have been lessoning as time has passed leaving only ill omens and terrible tidings. The hands of fate move to weave it's tapestry but not all threads are accounted for as frayed and loose threads attempt to outwit even the fates themselves in an effort to save what they hold dear in this world. Only time will tell whether the fields of Elysium welcome them as honored heroes or if they will wonder the fields of Ashphodel.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Strong Holds and Followers Creatures",
+      "entity": "Actor",
+      "name": "strong-holds-and-followers-creatures",
+      "path": "packs/strong-holds-and-followers-creatures.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Ruben Perez\\AppData\\Local\\FoundryVTT\\Data\\worlds\\mythos\\packs\\strong-holds-and-followers-creatures.db",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "nextSession": "2020-11-16T22:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.4.2"
+}
